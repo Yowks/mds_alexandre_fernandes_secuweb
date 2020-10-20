@@ -1,0 +1,18 @@
+
+# API REPO
+api/node_modules/
+api/package-lock.json
+api/.DS_Store
+api/.env
+
+# AUTH API REPO
+auth_api/node_modules/
+auth_api/package-lock.json
+auth_api/.DS_Store
+auth_api/.env
+
+# APP REPO
+app/node_modules/
+app/package-lock.json
+app/.DS_Store
+app/.env
